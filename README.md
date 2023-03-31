@@ -1,9 +1,9 @@
 # cisco-desafio-PacketTracer
-## Integração de algumas Habilidades durante curso Cybersecurity Essentials 
+  ## Algumas Habilidades durante curso Cybersecurity Essentials 
 
 Cenário:
 
-Esta atividade final inclui muitas das habilidades que você adquiriu durante este curso. Você irá configurar
+Esta atividade final inclui muitas das habilidades que foram adiquiridas durante o curso. Será configurado
 um roteador sem fio, fazer upload e baixar arquivos usando FTP, conectar-se com segurança a um site
 remoto usando uma VPN e proteger um roteador Cisco IOS.
 
